@@ -1,5 +1,5 @@
-name: Twister
-description: a powerful jekyll theme
+name: Tri Thức Sống
+description: Mục tiêu của đời người là hoàn thiện bản thân mình
 url: #place url
 gems: [jekyll-paginate]
 baseurl: #place folder name if site is served in subfolder
@@ -75,7 +75,7 @@ prose:
           label: "Post Type"
           help: "each type has some special feature"
           options:
-            - name: "Standard"
+            - name: "Bài viết"
               value: "standard"
             - name: "Image"
               value: "image"
