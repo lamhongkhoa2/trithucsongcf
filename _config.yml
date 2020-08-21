@@ -1,5 +1,5 @@
-name: Tri Thức Sống
-description: Mục tiêu của đời người là hoàn thiện bản thân mình
+name: "Tri Thức Sống"
+description: "Mục tiêu của đời người là hoàn thiện bản thân mình"
 url: #place url
 gems: [jekyll-paginate]
 baseurl: #place folder name if site is served in subfolder
